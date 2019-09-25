@@ -1,0 +1,20 @@
+actual values:
+P = 82
+NP = 18
+
+Experimental values:
+c1(P) = 59
+c2(NP) = 41
+
+Result
+True Positive = 58
+True Negative = 24
+False Positive = 1
+False Negative = 17
+
+Accuracy:
+(TP+TN)/(TP+TN+FP+FN) = 0.82 or 82%
+
+Medical Informatics:
+senstivity = true positive rate = (TP\(TP+FN)) = 0.77
+specificity = true negative rate = (TN/(TN+FP)) = 0.96
